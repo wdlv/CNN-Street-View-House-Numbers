@@ -24,7 +24,6 @@ Prediction folder contains 17 pictures cropped by author himself from Google Str
 
 ## Environment:
 
-### Softwares:
 TensorFlow 0.11
 
 Python 2.7
