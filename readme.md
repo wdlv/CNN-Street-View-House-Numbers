@@ -19,7 +19,7 @@ Execute the prediction_test.ipynb to read in folder named ‘prediction’’s i
 ![demo](https://github.com/woodenleaves/CNN_Street_View_House_Numbers/raw/master/cnn_svhn.png)
 
 ## Note:
-prediction folder contains 17 pictures cropped by author himself from Google Street View in Manhattan, New York. All the 17 images have been resized to 32 x 32.
+Prediction folder contains 17 pictures cropped by author himself from Google Street View in Manhattan, New York. All the 17 images have been resized to 32 x 32.
 
 
 ## Environment:
