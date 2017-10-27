@@ -26,26 +26,8 @@ prediction folder contains 17 pictures cropped by author himself from Google Str
 
 ### Softwares:
 TensorFlow 0.11
-Python 2.7
-Jupyter Notebook
 
-### Libraries:
-from __future__ import print_function
-import matplotlib.pyplot as plt
-import numpy as np
-import os
-import sys
-import tarfile
-from IPython.display import display, Image
-from scipy import ndimage
-from sklearn.linear_model import LogisticRegression
-from sklearn.cross_validation import train_test_split
-from six.moves.urllib.request import urlretrieve
-from six.moves import cPickle as pickle
-import scipy.io
-from six.moves import range
-import tensorflow as tf
-import seaborn as sns
-import random
-from PIL import Image
+Python 2.7
+
+Jupyter Notebook
 
